@@ -56,8 +56,8 @@ segmentation on an Online Retail dataset to identify customer churn risk and rev
 
 ## 📂 Project Structure
 ```
-├── data/
-│   └── online_retail.xlsx
+customer-churn-rfm-segmentation/
+├── data/                          ← not uploaded (see below)
 ├── notebooks/
 │   └── rfm_analysis_clean.ipynb
 ├── dashboard/
@@ -71,19 +71,22 @@ segmentation on an Online Retail dataset to identify customer churn risk and rev
 ## 🚀 How to Run
 
 1. Clone the repo:
-```bash
    git clone https://github.com/aks-data/customer-churn-rfm-segmentation
-```
-2. Install dependencies:
-```bash
-   pip install pandas numpy matplotlib seaborn
-```
-3. Run the notebook:
-```bash
-   jupyter notebook notebooks/rfm_analysis_clean.ipynb
-```
-4. Open `Customer Churn Analysis_final.pbix` file in Power BI Desktop
 
+2. Download the dataset:
+   👉 https://archive.ics.uci.edu/dataset/352/online+retail
+
+
+   Save it inside the data/ folder as: Online Retail.xlsx
+
+3. Install dependencies:
+   pip install pandas numpy matplotlib seaborn
+
+4. Run the notebook:
+   jupyter notebook notebooks/rfm_analysis_clean.ipynb
+
+5. Open the dashboard:
+   Open dashboard/Customer Churn Analysis_final.pbix in Power BI Desktop
 ---
 
 ## 👤 Author
@@ -91,5 +94,4 @@ segmentation on an Online Retail dataset to identify customer churn risk and rev
 **Anurag Kumar Singh**  
 📧 anuragksingh.da@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/iamanuragkrsingh)  
-🔗 [Download Raw Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
