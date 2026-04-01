@@ -90,4 +90,6 @@ segmentation on an Online Retail dataset to identify customer churn risk and rev
 
 **Anurag Kumar Singh**  
 📧 anuragksingh.da@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/iamanuragkrsingh)
+🔗 [LinkedIn](https://linkedin.com/in/iamanuragkrsingh)  
+🔗 [Download Raw Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+
